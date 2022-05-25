@@ -1,6 +1,7 @@
 .body {
-	background-color: blueviolet;
-	background-image: linear-gradient(45deg, #471457, #5616a0);
+background: url(/images/library.jpg);
+	  
+	
 	font-family: 'Raleway', sans-serif;
 	padding-bottom: 40px;
 	padding-top: 10px;
@@ -29,7 +30,7 @@
 	height: 4em;
 	
 	padding: 5px 0px;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 h3{
@@ -48,7 +49,7 @@ h3{
 
 .dashboard-one .icon-section, .dashboard-one .icon-section i {
 	background-color: #34495E;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashboard-one .detail-section {
@@ -58,7 +59,7 @@ h3{
 
 .dashbord-green .icon-section, .dashbord-green .icon-section i {
 	background-color: #16A085;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-green .detail-section {
@@ -68,7 +69,7 @@ h3{
 
 .dashbord-orange .icon-section, .dashbord-orange .icon-section i {
 	background-color: #F39C12;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-orange .detail-section {
@@ -78,7 +79,7 @@ h3{
 
 .dashbord-blue .icon-section, .dashbord-blue .icon-section i {
 	background-color: #2980B9;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-blue .detail-section {
@@ -88,7 +89,7 @@ h3{
 
 .dashbord-red .icon-section, .dashbord-red .icon-section i {
 	background-color: #E74C3C;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-red .detail-section {
@@ -98,7 +99,7 @@ h3{
 
 .dashbord-skyblue .icon-section, .dashbord-skyblue .icon-section i {
 	background-color: #8E44AD;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-skyblue .detail-section {
@@ -108,7 +109,7 @@ h3{
 
 .dashbord-light .icon-section, .dashbord-light .icon-section i {
 	background-color: #6CC417;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-light .detail-section {
@@ -118,7 +119,7 @@ h3{
 
 .dashbord-yellow .icon-section, .dashbord-yellow .icon-section i {
 	background-color: #FDD017;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-yellow .detail-section {
@@ -128,7 +129,7 @@ h3{
 
 .dashbord-last .icon-section, .dashbord-last .icon-section i {
 	background-color: #C12283;
-	border-radius: 10px;
+	border-radius: 0px;
 }
 
 .dashbord-last .detail-section {

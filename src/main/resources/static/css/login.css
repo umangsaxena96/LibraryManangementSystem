@@ -5,7 +5,7 @@ img {
 .login {
 	height: 100vh;
 	width: 100%;
-	background: radial-gradient(#653d84, #332042);
+	background: radial-gradient(rgb(192, 192, 192), #332042);
 	position: relative;
 }
 
@@ -90,15 +90,20 @@ img {
 }
 
 .right {
-	background: linear-gradient(212.38deg, rgba(242, 57, 127, 0.7) 0%,
-		rgba(175, 70, 189, 0.71) 100%), url(/images/logBook.jpg);
+	background: url(/images/library2.jpg);
+	 font-size: 100px;
 	color: #fff;
 	position: relative;
+	  
 }
 
 .right .right-text {
 	height: 100%;
 	position: relative;
+}
+.right h3{
+	font-size: 2.0rem;
+	font-weight: bold ;
 }
 
 .right-text {
@@ -106,8 +111,9 @@ img {
 	display: block;
 	width: 100%;
 	text-align: center;
-	font-size: 19px;
+	font-size: 50px;
 	font-weight: 400;
+	color:rgb(64, 0, 64);
 }
 
 .right .right-inductor {
